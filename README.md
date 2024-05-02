@@ -24,7 +24,7 @@ This project implements a MultiTask Convolutional Neural Network (MTCNN) along w
    - Define the output folder where the processed images will be saved.
 
 3. **Running the Script**:
-   - Run the script `face_detection_and_blur.py`.
+   - Run the script `blur_faces.py`.
    - Ensure that the input folder path is correctly specified within the script.
    - The processed images will be saved in the output folder.
 
@@ -33,7 +33,7 @@ This project implements a MultiTask Convolutional Neural Network (MTCNN) along w
 - You can modify the blur intensity or apply different filters in the `FaceBlur` class.
 - Adjust the size or number of segments in the `ImageDivider` class based on your requirements.
 
-## File Structure
+## File Structure in Main Python Script
 
 - `blur_faces.py`: Main Python script for face detection and blur.
 - `README.md`: This file providing an overview and instructions.
