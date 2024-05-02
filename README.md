@@ -35,7 +35,7 @@ This project implements a MultiTask Convolutional Neural Network (MTCNN) along w
 
 ## File Structure
 
-- `face_detection_and_blur.py`: Main Python script for face detection and blur.
+- `blur_faces.py`: Main Python script for face detection and blur.
 - `README.md`: This file providing an overview and instructions.
 - `input_folder/`: Folder containing input images.
 - `output_folder/`: Folder where processed images will be saved.
