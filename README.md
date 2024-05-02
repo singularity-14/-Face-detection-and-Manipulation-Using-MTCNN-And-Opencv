@@ -1,9 +1,3 @@
-# Face-detection-and-Manipulation-Using-MTCNN-And-Opencv
-
-Creating a README file for your project is a great idea! It helps users understand the purpose of your project, how to use it, and any other relevant information. Here's a template for your README file:
-
----
-
 # Face Detection and Manipulation Using MTCNN And OpenCV
 
 ## Overview
